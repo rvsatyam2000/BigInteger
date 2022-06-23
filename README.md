@@ -121,11 +121,6 @@ Conditionals can be used as it is done with general integer types variables.
 Supports :  *>* , *<* ,  *>=* , *<=* , *==* , *!=*
 It handles negative numbers also.
 
-```
-
----
-
-
 ## abs(bigint)  -   absolute function
 
 It takes BigInt as argument and return type is also *BigInt*.
