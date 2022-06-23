@@ -133,9 +133,12 @@ cout << abs(b) << std::endl;    // Output : 60820564691661355463515465564664568
 
 ---
 
-## operator ^ (bigint, bigint)  -   power function using operator overloading
+## operator ^ (bigint)  -   power function using operator overloading
 
-It takes two bigint as arguments and return type is also *bigint*, returns the *first* bigint argument to the power *second* bigint argument.
+```c++
+cout << a ^ b << std::endl;               // returns sqrt of bigint
+```
+
 
 ---
 ## sqrt(bigint)     -   square root function
